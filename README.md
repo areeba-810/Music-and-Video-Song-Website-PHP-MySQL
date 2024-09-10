@@ -15,6 +15,6 @@ Features:
   - Browse and listen to album songs by singer name.
   - Search for any song or video.
 
-**Technology**:
+- **Technology**:
   - Built with PHP and MySQL.
   - Fully functional with proper features.
