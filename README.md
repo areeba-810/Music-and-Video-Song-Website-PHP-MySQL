@@ -1,2 +1,20 @@
 # Music-and-Video-Song-Website-PHP-MySQL
-This is a music and video song website built with PHP and MySQL, featuring full functionalities. In the admin panel, admins can add, edit, and delete music and video songs, as well as manage song authors. The admin can also view all user data. On the user panel, users can listen to audio songs and watch video songs. After logging in, users can like, dislike, or comment on songs and videos. Without logging in, these actions are restricted. Users can also browse and listen to album songs by singer name and search for any song or video on the platform.
+
+Features:
+
+- **Admin Panel**:
+  - Add, edit, and delete music.
+  - Add, edit, and delete video songs.
+  - Manage song authors (add, edit, delete).
+  - View all user data.
+
+- **User Panel**:
+  - Listen to audio songs and watch video songs.
+  - Like, dislike, and comment on songs/videos after logging in.
+  - Restrictions: Users cannot like, dislike, or comment without logging in.
+  - Browse and listen to album songs by singer name.
+  - Search for any song or video.
+
+**Technology**:
+  - Built with PHP and MySQL.
+  - Fully functional with proper features.
